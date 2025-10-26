@@ -40,9 +40,8 @@ const Hero = () => {
             View Dashboard
           </Button>
           <Button 
-            size="lg" 
-            variant="outline"
-            className="border-2 border-white text-white hover:bg-white/10 backdrop-blur-sm text-lg px-8 py-6"
+            size="lg"
+            className="bg-white text-primary hover:bg-white/90 shadow-lg hover:shadow-xl transition-all text-lg px-8 py-6"
           >
             Learn More
           </Button>
